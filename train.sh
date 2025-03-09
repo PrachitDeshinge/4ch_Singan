@@ -1,0 +1,1 @@
+python main_train.py --input_name 60.png  --nc_z 4 --nc_im 4 --resume --gpu_id 0
